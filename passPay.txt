@@ -1,0 +1,3 @@
+PayPal ==>
+sb-q9wuf6820488@personal.example.com
+pass : w=CjDqT0
